@@ -1,5 +1,5 @@
 Boby Belajar Git
 - PHP
 - OOP
-- Laravel
 - Rest-API
+- Laravel Fundamental
